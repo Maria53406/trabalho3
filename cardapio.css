@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+    color: sienna;
+    }
+    header {
+        background-color: rgb(163, 95, 56);
+        color: #fff;
+        padding: 24px;
+        text-align: center;
+    }
+    main{
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 24px;
+    }
+    section{
+        background-color: #fff;
+        border-radius: 8px;
+        padding: 16px;
+        margin-bottom: 16px;
+    }
+    span{
+        font-weight: bold;
+        color: rgb(105, 88, 71);
+    }
+    footer{
+        text-align: center;
+        padding: 24px;
+    }
+    .card{
+        background-color: #ffffff;
+        border: 2px solid transparent;
+        border-radius: 8px;
+        padding: 16px;
+        margin-bottom: 20px;
+        cursor: pointer;
+    }
+    .card h2{
+        margin: 0 0 8px;
+    }
+    .valor{
+        font-weight: bold;
+        color: rgb(114, 93, 66);
+    }
+    .destaque{
+        background-color: #ffd8a5;
+    }
+    .card.destaque h2{
+        color: red;
+    }
