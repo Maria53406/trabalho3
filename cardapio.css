@@ -50,3 +50,9 @@ body{
     .card.destaque h2{
         color: red;
     }
+    #topo{
+        background-color: rgb(99, 64, 40);
+    }
+    #contato{
+        background-color: #a09a7a;
+    }
