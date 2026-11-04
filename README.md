@@ -1,2 +1,2 @@
 # trabalho4
-feito por: Bernado, Lara Geovanna, Anaterra e Maria Luiza
+feito por: Anaterra e Maria Luiza
